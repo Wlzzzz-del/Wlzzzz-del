@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 目前就读华北理工大学，智能科学与技术系
+- :ledger:
+- 💬 有任何idea或者问题欢迎打扰
 
 <!--
 **Wlzzzz-del/Wlzzzz-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
