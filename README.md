@@ -1,10 +1,10 @@
-### Hey Pipers 👋
+### Hey
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wlzzzz-del" />
 </a>
 
 
-- 🌱 目前就读华北理工大学，智能科学与技术系
+- 🌱 目前就读福建师范大学，网络空间安全专业
 - :ledger: 主要工具: C++\Python\Vim\OpenSuse
 - :coffee: 与我联系: wu_lizhao@yeah.net
 - 💬 有任何idea或者问题欢迎打扰
