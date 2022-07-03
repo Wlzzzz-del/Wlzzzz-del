@@ -9,6 +9,7 @@
 - :coffee: 与我联系: wu_lizhao@yeah.net
 - 💬 有任何idea或者问题欢迎打扰
 - :tv: love silicon-valley, always blue!
+- ⚡欢迎光临我的[博客](melowlz.top)
 
 <!--
 **Wlzzzz-del/Wlzzzz-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
