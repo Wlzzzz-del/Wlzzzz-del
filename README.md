@@ -4,11 +4,11 @@
 </a>
 
 
-- 🌱 目前就读福建师范大学，网络空间安全专业
-- :ledger: 主要工具: C++\Python\Vim\OpenSuse
-- :coffee: 与我联系: wu_lizhao@yeah.net
-- 💬 有任何idea或者问题欢迎打扰
-- ⚡欢迎光临[我的博客](http://www.melowlz.top)
+- 🌱 I am currently pursuing PhD degree in University of Exeter, majoring in computer science.
+- :ledger: Tools: C++\Python\Vim\OpenSuse
+- :coffee: Contact with me: (melowlz or wu_lizhao)@yeah.net
+- 💬 Any issues or ideas are welcomed!
+- ⚡Welcome to [My website](https://melowlz-d.github.io/)
 
 <!--
 **Wlzzzz-del/Wlzzzz-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
