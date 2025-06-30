@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wlzzzz-del" />
 </a>
 
-
+- I am Lewis L. Wu( Lizhao Wu in Chinese)
 - 🌱 I am currently pursuing PhD degree in University of Exeter, majoring in computer science.
 - :ledger: Tools: C++\Python\Vim\OpenSuse
 - :coffee: Contact with me: (melowlz or wu_lizhao)@yeah.net
