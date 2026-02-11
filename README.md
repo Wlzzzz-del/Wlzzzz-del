@@ -6,7 +6,7 @@
 - I am Lewis L. Wu( Lizhao Wu in Chinese)
 - 🌱 I am currently pursuing PhD degree in University of Exeter, majoring in computer science.
 - :ledger: Tools: C++\Python\Vim\OpenSuse
-- :coffee: Contact with me: (melowlz or wu_lizhao)@yeah.net
+- :coffee: Contact with me: melowlz at yeah.net
 - 💬 Any issues or ideas are welcomed!
 - ⚡Welcome to [My website](https://melowlz-d.github.io/)
 
